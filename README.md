@@ -1,15 +1,14 @@
 
-Superstore Sales Analytics Project
+# Superstore Sales Analytics Project
 
-Project Overview
+# Project Overview
 
 This project analyzes retail sales data from a Superstore business to uncover insights into sales performance, profitability, customer behavior, product performance, and geographic trends. The goal of the analysis is to transform raw transactional data into actionable business insights that support strategic decision-making and drive business growth.
 
 The project follows a complete Business Intelligence workflow, including Exploratory Data Analysis (EDA), Advanced Analytics, Reporting, and Business Recommendations.
 
-⸻
 
-Business Problem
+# Business Problem
 
 Businesses generate large volumes of transactional data every day, but raw data alone does not provide meaningful business value. Decision-makers require clear insights into what drives revenue, profitability, customer retention, and operational performance.
 
@@ -22,9 +21,8 @@ This project aims to answer key business questions such as:
 * What opportunities exist to improve profitability?
 * How can customer and product segmentation support better decision-making?
 
-⸻
 
-Dataset Information
+# Dataset Information
 
 The dataset contains transactional sales records including:
 
@@ -38,7 +36,7 @@ The dataset contains transactional sales records including:
 * Geographic Information (City, State, Region)
 * Order and Shipping Dates
 
-Dataset Summary
+# Dataset Summary
 
 Metric	Value
 Total Sales	$2.33M
@@ -49,24 +47,21 @@ Total Customers	804
 Total Products	1,894
 Total Quantity Sold	38,654
 
-⸻
-
-Tools Used
+# Tools Used
 
 * SQL (MySQL)
 * MySQL Workbench
 * GitHub
 * Notion (Documentation)
 
-⸻
 
-Project Structure
+# Project Structure
 
-Phase 1: Exploratory Data Analysis (EDA)
+# Phase 1: Exploratory Data Analysis (EDA)
 
 The objective of this phase was to understand the dataset and identify initial business patterns.
 
-Analyses Performed
+# Analyses Performed
 
 * Data Understanding
 * Database Exploration
@@ -76,9 +71,7 @@ Analyses Performed
 * Magnitude Analysis
 * Ranking Analysis
 
-⸻
-
-Phase 2: Advanced Analytics
+# Phase 2: Advanced Analytics
 
 The objective of this phase was to uncover deeper business insights through analytical techniques.
 
@@ -145,9 +138,7 @@ Classified products into:
 * Mid-Range
 * Low Performing
 
-⸻
-
-Phase 3: Reporting
+# Phase 3: Reporting
 
 Created business-focused reporting views and documented findings.
 
@@ -163,9 +154,7 @@ Reporting Views
 
 Custom SQL views were developed to support reporting and business analysis.
 
-⸻
-
-Key Findings
+# Key Findings
 
 Sales Performance
 
@@ -197,7 +186,6 @@ Profitability
 * Overall profit margin reached 12.56%.
 * Profitability varies significantly across products, customers, and markets.
 
-⸻
 
 Strategic Recommendations
 
@@ -210,13 +198,11 @@ Based on the analysis, several opportunities were identified:
 * Use customer and product segmentation to guide business decisions.
 * Monitor both sales and profitability when evaluating performance.
 
-⸻
 
-Business Impact
+# Business Impact
 
 This project demonstrates how data analytics can transform transactional data into actionable business insights. By combining SQL-based analysis with business reporting and strategic recommendations, the project provides a framework for improving profitability, optimizing resource allocation, and supporting sustainable business growth.
 
-⸻
 
 Author
 
